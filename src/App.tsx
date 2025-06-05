@@ -600,7 +600,7 @@ const App: React.FC = () => {
                 className="w-155 p-2 sm:p-2.5 border border-gray-300 rounded-lg shadow-sm focus:ring-2 focus:ring-purple-500 focus:border-purple-500 transition duration-150 ease-in-out text-base"
                 aria-label="Number of simulations"
               />
-            </div
+            </div>
             <button
               onClick={handleQuickSimulate}
               disabled={isControlsDisabled || numSimulationsInput === "" || parseInt(numSimulationsInput) < 1 || parseInt(numSimulationsInput) > MAX_QUICK_SIMULATIONS || parseInt(betAmount) <= 0 || betAmount === "" || balance < parseInt(betAmount)}

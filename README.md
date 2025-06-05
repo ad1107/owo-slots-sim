@@ -2,7 +2,7 @@
 
 A web simulation *(that aims to precisely simulates)* the owobot's slot machine minigame. Experience the slot machine mechanic by betting and observing the outcomes based on the original bot's probabilities and payout rules. 
 
-* Simulates the OwO bot's slot machine reels, win conditions, and payouts visually with spinning reels and results.
+* Simulates the owobot's slot machine reels, win conditions, and payouts visually with spinning reels and results.
 * Balance history chart to track your virtual fortune.
 
 ## Disclaimer
