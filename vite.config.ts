@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: './', // Use relative paths for GitHub Pages
+  base: '/owo-slots-sim/', // GitHub Pages repository path
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
